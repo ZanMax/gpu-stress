@@ -1,6 +1,8 @@
 # GPU stress
 Stress test all your GPUs
 
+<img src="https://github.com/ZanMax/zanmax.github.io/blob/master/public/img/gpu-stress.png?raw=true" width="622" height="490" alt="GPU stress">
+
 ## Installation
 ```bash
 python3 -m venv venv
